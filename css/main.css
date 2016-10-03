@@ -26,6 +26,6 @@ ul > nav {
   background-color: #b58900;
 }
 
-.wrapper > .dfn + strong(2) {
+.dfn p + strong {
   color: #fff;
 }
