@@ -29,3 +29,7 @@ ul > nav {
 .dfn p + strong {
   color: #fff;
 }
+
+html mark {
+  background-color: #719e07;
+}
