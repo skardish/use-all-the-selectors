@@ -45,3 +45,11 @@ ol li:first-child{
 li:last-child {
   color: #2aa198;
 }
+
+li:nth-child(odd) {
+  background-color: #657ba3
+}
+
+li:nth-child(even) {
+  background-color: #586e75;
+}
